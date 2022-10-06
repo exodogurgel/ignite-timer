@@ -3,16 +3,15 @@
 </h1>
 
 <p align="center" margin-top="25px" >
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/exodogurgel/coffee-delivery" />
+  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/exodogurgel/ignite-timer" />
 
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/exodogurgel/coffee-delivery" />
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/exodogurgel/ignite-timer" />
 
-  <img alt="Github License" src="https://img.shields.io/github/license/exodogurgel/coffee-delivery?color=blueviolet" />
+  <img alt="Github License" src="https://img.shields.io/github/license/exodogurgel/ignite-timer" />
   
 </p>
 
 ![image](.github/home.png)
-
 ![image](.github/history.png)
 ___
 
